@@ -1,0 +1,101 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Notebook,Europe,1238.44,424.18,0.05,Technology,2024-05-27
+Desk,Europe,3575.85,1127.62,0.09,Office Supplies,2024-01-08
+Phone,South America,9070.15,1026.44,0.47,Technology,2024-07-19
+Notebook,Europe,2735.88,1409.0,0.32,Technology,2023-09-16
+Pen,Europe,6483.95,251.39,0.26,Furniture,2024-10-17
+Printer,Australia,25.19,1269.61,0.33,Furniture,2024-04-15
+Phone,South America,3538.64,2436.68,0.22,Office Supplies,2023-01-12
+Phone,Australia,3061.72,960.23,0.37,Furniture,2023-11-26
+Notebook,Australia,1663.27,2218.3,0.02,Office Supplies,2023-12-24
+Chair,South America,5350.21,803.18,0.28,Furniture,2024-02-12
+Pen,North America,4858.6,550.24,0.08,Technology,2024-10-29
+Notebook,Australia,6930.51,1435.31,0.06,Office Supplies,2024-01-08
+Pen,Africa,2708.74,1506.77,0.17,Office Supplies,2023-01-08
+Pen,Africa,2456.37,2092.5,0.05,Technology,2023-05-02
+Printer,Europe,1699.54,190.56,0.05,Office Supplies,2023-12-14
+Phone,Africa,2203.27,997.58,0.16,Office Supplies,2024-11-06
+Desk,Europe,5589.86,1216.01,0.49,Furniture,2023-03-31
+Printer,North America,4050.28,1805.66,0.09,Office Supplies,2024-10-09
+Printer,South America,667.62,-369.19,0.01,Technology,2024-11-28
+Pen,South America,2554.08,2483.65,0.38,Furniture,2023-11-12
+Monitor,South America,2483.82,909.83,0.4,Furniture,2023-06-27
+Phone,Africa,6969.12,338.68,0.17,Technology,2024-06-23
+Chair,North America,7128.46,2150.48,0.23,Technology,2023-02-10
+Printer,Africa,1497.91,1743.16,0.32,Furniture,2024-12-04
+Desk,Africa,9977.45,2359.22,0.02,Office Supplies,2024-05-16
+Monitor,North America,2682.47,492.25,0.47,Furniture,2023-05-25
+Monitor,North America,9766.62,1158.29,0.44,Technology,2023-07-20
+Chair,North America,4122.15,1216.88,0.13,Furniture,2024-12-24
+Printer,North America,349.85,2440.99,0.01,Technology,2024-04-05
+Desk,South America,3463.81,-273.96,0.47,Furniture,2024-07-11
+Phone,Asia,6350.83,417.09,0.25,Office Supplies,2024-06-30
+Laptop,Asia,6813.44,72.73,0.27,Furniture,2023-09-10
+Desk,North America,5318.73,305.42,0.34,Furniture,2024-01-25
+Chair,Asia,4488.88,955.84,0.31,Technology,2024-08-16
+Monitor,Asia,5537.87,618.06,0.47,Technology,2023-09-13
+Phone,North America,5935.11,684.07,0.47,Technology,2024-12-09
+Desk,Asia,826.92,2032.64,0.43,Furniture,2024-03-25
+Laptop,Africa,3709.15,2290.05,0.32,Office Supplies,2023-01-10
+Laptop,Europe,2436.76,-288.75,0.4,Technology,2023-08-30
+Pen,Europe,8035.33,126.76,0.34,Technology,2023-09-08
+Pen,North America,4713.6,1513.43,0.29,Furniture,2023-01-05
+Notebook,South America,9834.56,575.94,0.06,Technology,2023-04-29
+Chair,North America,4000.27,262.49,0.41,Office Supplies,2024-01-09
+Printer,South America,8167.99,385.87,0.41,Office Supplies,2023-03-06
+Desk,Europe,7987.48,467.65,0.31,Technology,2023-05-26
+Desk,North America,1524.16,2046.01,0.41,Technology,2023-08-12
+Printer,Australia,5091.82,-90.14,0.33,Furniture,2023-08-27
+Notebook,Africa,6964.21,1626.73,0.1,Office Supplies,2023-06-26
+Monitor,Asia,8586.42,1158.46,0.14,Office Supplies,2023-10-09
+Monitor,South America,3273.07,389.53,0.11,Technology,2023-03-04
+Notebook,Australia,2218.01,759.34,0.19,Furniture,2023-08-05
+Monitor,Asia,7117.27,268.62,0.02,Office Supplies,2024-11-19
+Pen,Asia,8098.82,1334.54,0.31,Office Supplies,2024-04-05
+Desk,North America,3499.69,-255.22,0.17,Furniture,2024-09-01
+Notebook,Asia,979.84,-484.45,0.33,Furniture,2023-04-15
+Desk,Africa,9406.42,1383.68,0.19,Office Supplies,2023-04-09
+Printer,Australia,3987.77,82.82,0.34,Office Supplies,2024-05-25
+Laptop,Asia,5187.16,-287.18,0.17,Furniture,2024-01-20
+Pen,North America,8380.35,690.35,0.13,Office Supplies,2024-02-09
+Phone,Africa,6763.39,-347.69,0.25,Technology,2024-06-01
+Pen,Europe,7357.46,2159.85,0.35,Technology,2024-04-20
+Notebook,Australia,2106.53,-417.15,0.17,Furniture,2024-12-09
+Phone,Asia,5423.65,1236.59,0.47,Furniture,2024-10-06
+Laptop,North America,6963.93,815.42,0.02,Furniture,2024-03-12
+Notebook,Europe,2300.93,1516.08,0.21,Technology,2023-01-23
+Chair,Europe,1766.05,484.46,0.48,Office Supplies,2024-07-18
+Desk,South America,9822.04,-34.88,0.27,Technology,2024-11-07
+Laptop,Africa,5176.03,2445.52,0.21,Office Supplies,2024-12-14
+Desk,Asia,2623.08,2016.8,0.28,Technology,2024-04-02
+Monitor,North America,9962.61,2081.21,0.29,Office Supplies,2023-03-24
+Chair,South America,9654.89,250.75,0.37,Technology,2023-05-25
+Chair,Africa,5591.77,-383.5,0.06,Furniture,2023-03-26
+Laptop,South America,8828.71,409.8,0.13,Technology,2023-03-19
+Chair,Australia,1903.3,1111.25,0.29,Office Supplies,2024-04-01
+Phone,Africa,2803.14,479.95,0.43,Technology,2023-01-01
+Chair,Africa,7009.57,1983.61,0.28,Technology,2023-02-20
+Desk,Asia,8469.68,314.63,0.12,Technology,2024-11-15
+Desk,Africa,8566.12,2395.76,0.34,Furniture,2024-12-17
+Notebook,South America,4056.99,871.8,0.37,Technology,2024-03-21
+Desk,Africa,8879.95,2026.07,0.12,Furniture,2024-03-24
+Notebook,Asia,8512.27,83.14,0.19,Furniture,2024-05-02
+Desk,Asia,9357.64,734.06,0.27,Technology,2023-02-03
+Phone,Australia,7857.7,1598.54,0.25,Technology,2023-12-14
+Printer,South America,6696.5,-84.94,0.19,Technology,2023-04-05
+Notebook,Europe,5815.25,-101.76,0.15,Office Supplies,2023-03-13
+Pen,Europe,3735.38,2408.61,0.05,Technology,2024-07-04
+Monitor,Africa,9402.53,1643.79,0.03,Furniture,2023-06-03
+Laptop,Australia,9737.17,-376.8,0.48,Technology,2023-09-07
+Desk,North America,2853.53,696.46,0.42,Office Supplies,2024-11-04
+Chair,Africa,3067.53,800.56,0.18,Technology,2024-03-13
+Printer,Australia,4866.43,1732.13,0.48,Office Supplies,2023-04-28
+Desk,South America,4495.27,252.58,0.34,Office Supplies,2023-11-02
+Chair,South America,9944.69,53.0,0.24,Technology,2023-09-25
+Monitor,South America,1775.73,-257.38,0.25,Furniture,2023-02-23
+Monitor,South America,200.39,784.94,0.04,Office Supplies,2023-08-24
+Monitor,South America,4949.06,1565.5,0.05,Technology,2024-01-24
+Chair,Australia,1804.65,-325.42,0.3,Technology,2024-02-05
+Desk,Australia,3677.36,2245.64,0.28,Furniture,2024-09-15
+Monitor,Asia,7446.82,827.06,0.11,Office Supplies,2023-10-30
+Phone,Europe,7214.98,219.36,0.47,Office Supplies,2023-07-26
